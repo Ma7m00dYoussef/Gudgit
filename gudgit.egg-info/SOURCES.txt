@@ -1,0 +1,9 @@
+main.py
+objects.py
+pyproject.toml
+repo.py
+gudgit.egg-info/PKG-INFO
+gudgit.egg-info/SOURCES.txt
+gudgit.egg-info/dependency_links.txt
+gudgit.egg-info/entry_points.txt
+gudgit.egg-info/top_level.txt

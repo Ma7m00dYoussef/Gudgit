@@ -1,0 +1,9 @@
+[project]
+name = "gudgit"
+version = "0.1.0"
+
+[project.scripts]
+gudgit = "main:main"
+
+[tool.setuptools]
+py-modules = ["main", "repo", "objects"]

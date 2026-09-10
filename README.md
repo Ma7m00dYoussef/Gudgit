@@ -78,12 +78,6 @@ pip install .
 - On **Linux**, this installs the `gudgit` script to your user `bin` directory (e.g. `~/.local/bin`). Make sure that folder is on your `PATH`.
 - On **Windows**, this installs `gudgit.exe` to your Python `Scripts` folder (e.g. `%APPDATA%\Python\PythonXY\Scripts`). Make sure that folder is on your `PATH`.
 
-### 3. Verify
-
-```bash
-gudgit --help
-```
-
 You should see the `init`, `commit`, `restore`, and `log` subcommands listed.
 
 ## Usage
